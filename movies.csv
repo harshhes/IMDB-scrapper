@@ -1,0 +1,251 @@
+title,year,rating,views,genre,duration,director
+The Shawshank Redemption,1994,9.3/10,2.7M,Drama,2h 22m,Frank Darabont
+Schindler's List,1993,9.0/10,1.4M,Biography,3h 15m,Steven Spielberg
+The Godfather,1972,9.2/10,1.8M,Crime,2h 55m,Francis Ford Coppola
+The Dark Knight,2008,9.0/10,2.6M,Action,2h 32m,Christopher Nolan
+The Godfather Part II,1974,9.0/10,1.3M,Crime,3h 22m,Francis Ford Coppola
+Pulp Fiction,1994,8.9/10,2M,Crime,2h 34m,Quentin Tarantino
+The Lord of the Rings: The Return of the King,2003,9.0/10,1.8M,Action,3h 21m,Peter Jackson
+12 Angry Men,1957,9.0/10,788K,Crime,1h 36m,Sidney Lumet
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7/10,1.3M,Action,2h 4m,Irvin Kershner
+"The Good, the Bad and the Ugly",1966,8.8/10,760K,Adventure,2h 58m,Sergio Leone
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8/10,1.9M,Action,2h 58m,Peter Jackson
+Forrest Gump,1994,8.8/10,2.1M,Drama,2h 22m,Robert Zemeckis
+Fight Club,1999,8.8/10,2.1M,Drama,2h 19m,David Fincher
+Inception,2010,8.8/10,2.3M,Action,2h 28m,Christopher Nolan
+The Matrix,1999,8.7/10,1.9M,Action,2h 16m,Lana Wachowski
+The Lord of the Rings: The Two Towers,2002,8.8/10,1.7M,Action,2h 59m,Peter Jackson
+The Help,2011,8.1/10,460K,Drama,2h 26m,Tate Taylor
+Gandhi,1982,8.1/10,233K,Biography,3h 11m,Richard Attenborough
+Aladdin,1992,8.0/10,420K,Animation,1h 30m,Ron Clements
+The Sound of Music,1965,8.1/10,235K,Biography,2h 52m,Robert Wise
+Dersu Uzala,1975,8.2/10,30K,Adventure,2h 22m,Akira Kurosawa
+Life of Brian,1979,8.0/10,401K,Comedy,1h 34m,Terry Jones
+The Iron Giant,1999,8.1/10,199K,Animation,1h 26m,Brad Bird
+It Happened One Night,1934,8.1/10,105K,Comedy,1h 45m,Frank Capra
+Everything Everywhere All at Once,2022,8.1/10,247K,Action,2h 19m,Dan Kwan
+Persona,1966,8.1/10,120K,Drama,1h 23m,Ingmar Bergman
+The 400 Blows,1959,8.1/10,119K,Crime,1h 39m,François Truffaut
+The Handmaiden,2016,8.1/10,148K,Drama,2h 25m,Park Chan-wook
+Cool Hand Luke,1967,8.1/10,178K,Crime,2h 7m,Stuart Rosenberg
+Amores Perros,2000,8.1/10,241K,Drama,2h 34m,Alejandro G. Iñárritu
+Rebecca,1940,8.1/10,138K,Drama,2h 10m,Alfred Hitchcock
+My Father and My Son,2005,8.2/10,87K,Drama,1h 52m,Çagan Irmak
+La haine,1995,8.1/10,175K,Crime,1h 38m,Mathieu Kassovitz
+The Grapes of Wrath,1940,8.1/10,94K,Drama,2h 9m,John Ford
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1/10,1.1M,Action,2h 23m,Gore Verbinski
+Jai Bhim,2021,8.9/10,202K,Crime,2h 44m,T.J. Gnanavel
+To Be or Not to Be,1942,8.2/10,38K,Comedy,1h 39m,Ernst Lubitsch
+Hachi: A Dog's Tale,2009,8.1/10,286K,Biography,1h 33m,Lasse Hallström
+The Battle of Algiers,1966,8.1/10,61K,Drama,2h 1m,Gillo Pontecorvo
+The Incredibles,2004,8.0/10,737K,Animation,1h 55m,Brad Bird
+Groundhog Day,1993,8.1/10,631K,Comedy,1h 41m,Harold Ramis
+The Exorcist,1973,8.1/10,409K,Horror,2h 2m,William Friedkin
+Before Sunset,2004,8.1/10,265K,Drama,1h 20m,Richard Linklater
+The Best Years of Our Lives,1946,8.1/10,65K,Drama,2h 50m,William Wyler
+The Wizard of Oz,1939,8.1/10,401K,Adventure,1h 42m,Victor Fleming
+Into the Wild,2007,8.1/10,624K,Adventure,2h 28m,Sean Penn
+Pather Panchali,1955,8.3/10,33K,Drama,2h 5m,Satyajit Ray
+Rush,2013,8.1/10,480K,Action,2h 3m,Ron Howard
+Ratatouille,2007,8.1/10,735K,Animation,1h 51m,Brad Bird
+Logan,2017,8.1/10,762K,Action,2h 17m,James Mangold
+Network,1976,8.1/10,160K,Drama,2h 1m,Sidney Lumet
+The Terminator,1984,8.1/10,864K,Action,1h 47m,James Cameron
+Stand by Me,1986,8.1/10,405K,Adventure,1h 29m,Rob Reiner
+Platoon,1986,8.1/10,415K,Drama,2h,Oliver Stone
+Spotlight,2015,8.1/10,470K,Biography,2h 9m,Tom McCarthy
+Hotel Rwanda,2004,8.1/10,356K,Biography,2h 1m,Terry George
+Rocky,1976,8.1/10,576K,Drama,2h,John G. Avildsen
+Tokyo Story,1953,8.2/10,62K,Drama,2h 16m,Yasujirô Ozu
+Dead Poets Society,1989,8.1/10,491K,Comedy,2h 8m,Peter Weir
+The Passion of Joan of Arc,1928,8.2/10,55K,Biography,1h 54m,Carl Theodor Dreyer
+Ford v Ferrari,2019,8.1/10,393K,Action,2h 32m,James Mangold
+The Big Lebowski,1998,8.1/10,808K,Comedy,1h 57m,Joel Coen
+"Monsters, Inc.",2001,8.1/10,908K,Animation,1h 32m,Pete Docter
+How to Train Your Dragon,2010,8.1/10,740K,Animation,1h 38m,Dean DeBlois
+Jaws,1975,8.1/10,607K,Adventure,2h 4m,Steven Spielberg
+Mary and Max,2009,8.1/10,178K,Animation,1h 32m,Adam Elliot
+Mad Max: Fury Road,2015,8.1/10,1M,Action,2h,George Miller
+Room,2015,8.1/10,421K,Drama,1h 58m,Lenny Abrahamson
+The Seventh Seal,1957,8.1/10,186K,Drama,1h 36m,Ingmar Bergman
+Wild Tales,2014,8.1/10,199K,Comedy,2h 2m,Damián Szifron
+Sherlock Jr.,1924,8.2/10,51K,Action,45m,Buster Keaton
+Memories of Murder,2003,8.1/10,185K,Crime,2h 12m,Bong Joon Ho
+Mr. Smith Goes to Washington,1939,8.1/10,116K,Comedy,2h 9m,Frank Capra
+The Wages of Fear,1953,8.2/10,62K,Adventure,2h 11m,Henri-Georges Clouzot
+Hacksaw Ridge,2016,8.1/10,525K,Biography,2h 19m,Mel Gibson
+Klaus,2019,8.1/10,151K,Animation,1h 36m,Sergio Pablos
+Barry Lyndon,1975,8.1/10,169K,Adventure,3h 5m,Stanley Kubrick
+In the Name of the Father,1993,8.1/10,176K,Biography,2h 13m,Jim Sheridan
+The Deer Hunter,1978,8.1/10,340K,Drama,3h 3m,Michael Cimino
+The Grand Budapest Hotel,2014,8.1/10,808K,Adventure,1h 39m,Wes Anderson
+Wild Strawberries,1957,8.1/10,108K,Drama,1h 31m,Ingmar Bergman
+The General,1926,8.2/10,92K,Action,1h 7m,Clyde Bruckman
+The Third Man,1949,8.1/10,173K,Film-Noir,1h 33m,Carol Reed
+Gone Girl,2014,8.1/10,980K,Drama,2h 29m,David Fincher
+Ben-Hur,1959,8.1/10,240K,Adventure,3h 32m,William Wyler
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1/10,873K,Adventure,2h 10m,David Yates
+12 Years a Slave,2013,8.1/10,701K,Biography,2h 14m,Steve McQueen
+Children of Heaven,1997,8.2/10,75K,Drama,1h 29m,Majid Majidi
+Blade Runner,1982,8.1/10,769K,Action,1h 57m,Ridley Scott
+The Gold Rush,1925,8.2/10,112K,Adventure,1h 35m,Charles Chaplin
+On the Waterfront,1954,8.1/10,156K,Crime,1h 48m,Elia Kazan
+Million Dollar Baby,2004,8.1/10,688K,Drama,2h 12m,Clint Eastwood
+Catch Me If You Can,2002,8.1/10,979K,Biography,2h 21m,Steven Spielberg
+Gran Torino,2008,8.1/10,776K,Drama,1h 56m,Clint Eastwood
+Fargo,1996,8.1/10,678K,Crime,1h 38m,Joel Coen
+My Neighbor Totoro,1988,8.1/10,340K,Animation,1h 26m,Hayao Miyazaki
+Warrior,2011,8.2/10,473K,Action,2h 20m,Gavin O'Connor
+Prisoners,2013,8.1/10,710K,Crime,2h 33m,Denis Villeneuve
+The Bridge on the River Kwai,1957,8.2/10,222K,Adventure,2h 41m,David Lean
+Trainspotting,1996,8.1/10,687K,Drama,1h 33m,Danny Boyle
+Before Sunrise,1995,8.1/10,309K,Drama,1h 41m,Richard Linklater
+"Three Billboards Outside Ebbing, Missouri",2017,8.1/10,507K,Comedy,1h 55m,Martin McDonagh
+The Secret in Their Eyes,2009,8.2/10,211K,Drama,2h 9m,Juan José Campanella
+Dial M for Murder,1954,8.2/10,177K,Crime,1h 45m,Alfred Hitchcock
+Howl's Moving Castle,2004,8.2/10,395K,Animation,1h 59m,Hayao Miyazaki
+"Lock, Stock and Two Smoking Barrels",1998,8.2/10,583K,Action,1h 47m,Guy Ritchie
+V for Vendetta,2005,8.2/10,1.1M,Action,2h 12m,James McTeigue
+Gone with the Wind,1939,8.2/10,316K,Drama,3h 58m,Victor Fleming
+Inside Out,2015,8.2/10,712K,Animation,1h 35m,Pete Docter
+Raging Bull,1980,8.2/10,355K,Biography,2h 9m,Martin Scorsese
+Chinatown,1974,8.2/10,328K,Drama,2h 10m,Roman Polanski
+The Elephant Man,1980,8.2/10,242K,Biography,2h 4m,David Lynch
+The Thing,1982,8.2/10,426K,Horror,1h 49m,John Carpenter
+No Country for Old Men,2007,8.2/10,971K,Crime,2h 2m,Ethan Coen
+Kill Bill: Vol. 1,2003,8.2/10,1.1M,Action,1h 51m,Quentin Tarantino
+The Great Escape,1963,8.2/10,245K,Adventure,2h 52m,John Sturges
+Jurassic Park,1993,8.2/10,986K,Action,2h 7m,Steven Spielberg
+Finding Nemo,2003,8.2/10,1M,Animation,1h 40m,Andrew Stanton
+Rashomon,1950,8.2/10,169K,Crime,1h 28m,Akira Kurosawa
+The Treasure of the Sierra Madre,1948,8.2/10,126K,Adventure,2h 6m,John Huston
+Monty Python and the Holy Grail,1975,8.2/10,542K,Adventure,1h 31m,Terry Gilliam
+Yojimbo,1961,8.2/10,124K,Action,1h 50m,Akira Kurosawa
+Shutter Island,2010,8.2/10,1.3M,Mystery,2h 18m,Martin Scorsese
+The Truman Show,1998,8.2/10,1.1M,Comedy,1h 43m,Peter Weir
+A Beautiful Mind,2001,8.2/10,932K,Biography,2h 15m,Ron Howard
+Spider-Man: No Way Home,2021,8.3/10,748K,Action,2h 28m,Jon Watts
+There Will Be Blood,2007,8.2/10,587K,Drama,2h 38m,Paul Thomas Anderson
+Unforgiven,1992,8.2/10,413K,Drama,2h 10m,Clint Eastwood
+The Sixth Sense,1999,8.2/10,991K,Drama,1h 47m,M. Night Shyamalan
+Pan's Labyrinth,2006,8.2/10,669K,Drama,1h 58m,Guillermo del Toro
+Casino,1995,8.2/10,520K,Crime,2h 58m,Martin Scorsese
+Judgment at Nuremberg,1961,8.3/10,78K,Drama,2h 59m,Stanley Kramer
+Ran,1985,8.2/10,126K,Action,2h 42m,Akira Kurosawa
+Green Book,2018,8.2/10,490K,Biography,2h 10m,Peter Farrelly
+The Wolf of Wall Street,2013,8.2/10,1.4M,Biography,3h,Martin Scorsese
+All About Eve,1950,8.2/10,132K,Drama,2h 18m,Joseph L. Mankiewicz
+The Father,2020,8.2/10,153K,Drama,1h 37m,Florian Zeller
+Some Like It Hot,1959,8.2/10,268K,Comedy,2h 1m,Billy Wilder
+Downfall,2004,8.2/10,357K,Biography,2h 36m,Oliver Hirschbiegel
+Dangal,2016,8.3/10,192K,Action,2h 41m,Nitesh Tiwari
+Batman Begins,2005,8.2/10,1.5M,Action,2h 20m,Christopher Nolan
+The Kid,1921,8.3/10,127K,Comedy,1h 8m,Charles Chaplin
+For a Few Dollars More,1965,8.2/10,258K,Western,2h 12m,Sergio Leone
+1917,2019,8.2/10,586K,Action,1h 59m,Sam Mendes
+Like Stars on Earth,2007,8.4/10,194K,Drama,2h 45m,Aamir Khan
+Indiana Jones and the Last Crusade,1989,8.2/10,754K,Action,2h 7m,Steven Spielberg
+Bicycle Thieves,1948,8.3/10,164K,Drama,1h 29m,Vittorio De Sica
+L.A. Confidential,1997,8.2/10,584K,Crime,2h 18m,Curtis Hanson
+Die Hard,1988,8.2/10,876K,Action,2h 12m,John McTiernan
+Snatch,2000,8.2/10,855K,Comedy,1h 42m,Guy Ritchie
+Metropolis,1927,8.3/10,175K,Drama,2h 33m,Fritz Lang
+A Separation,2011,8.3/10,246K,Drama,2h 3m,Asghar Farhadi
+Taxi Driver,1976,8.2/10,831K,Crime,1h 54m,Martin Scorsese
+Heat,1995,8.3/10,654K,Action,2h 50m,Michael Mann
+Up,2009,8.3/10,1M,Animation,1h 36m,Pete Docter
+The Sting,1973,8.3/10,263K,Comedy,2h 9m,George Roy Hill
+Scarface,1983,8.3/10,839K,Crime,2h 50m,Brian De Palma
+To Kill a Mockingbird,1962,8.3/10,317K,Crime,2h 9m,Robert Mulligan
+Incendies,2010,8.3/10,178K,Drama,2h 11m,Denis Villeneuve
+Hamilton,2020,8.4/10,95K,Biography,2h 40m,Thomas Kail
+Double Indemnity,1944,8.3/10,158K,Crime,1h 47m,Billy Wilder
+Full Metal Jacket,1987,8.3/10,742K,Drama,1h 56m,Stanley Kubrick
+Ikiru,1952,8.3/10,79K,Drama,2h 23m,Akira Kurosawa
+The Apartment,1960,8.3/10,182K,Comedy,2h 5m,Billy Wilder
+Amélie,2001,8.3/10,757K,Comedy,2h 2m,Jean-Pierre Jeunet
+A Clockwork Orange,1971,8.3/10,829K,Crime,2h 16m,Stanley Kubrick
+Vertigo,1958,8.3/10,403K,Mystery,2h 8m,Alfred Hitchcock
+North by Northwest,1959,8.3/10,329K,Action,2h 16m,Alfred Hitchcock
+Lawrence of Arabia,1962,8.3/10,295K,Adventure,3h 38m,David Lean
+M,1931,8.3/10,159K,Crime,1h 39m,Fritz Lang
+Citizen Kane,1941,8.3/10,443K,Drama,1h 59m,Orson Welles
+Reservoir Dogs,1992,8.3/10,1M,Crime,1h 39m,Quentin Tarantino
+Come and See,1985,8.4/10,81K,Drama,2h 22m,Elem Klimov
+2001: A Space Odyssey,1968,8.3/10,668K,Adventure,2h 29m,Stanley Kubrick
+Capernaum,2018,8.4/10,90K,Drama,2h 6m,Nadine Labaki
+Eternal Sunshine of the Spotless Mind,2004,8.3/10,1M,Drama,1h 48m,Michel Gondry
+The Hunt,2012,8.3/10,331K,Drama,1h 55m,Thomas Vinterberg
+Star Wars: Episode VI - Return of the Jedi,1983,8.3/10,1.1M,Action,2h 11m,Richard Marquand
+Singin' in the Rain,1952,8.3/10,243K,Comedy,1h 43m,Stanley Donen
+Toy Story 3,2010,8.3/10,835K,Animation,1h 43m,Lee Unkrich
+High and Low,1963,8.4/10,45K,Crime,2h 23m,Akira Kurosawa
+3 Idiots,2009,8.4/10,401K,Comedy,2h 50m,Rajkumar Hirani
+Your Name.,2016,8.4/10,268K,Animation,1h 46m,Makoto Shinkai
+Requiem for a Dream,2000,8.3/10,841K,Drama,1h 42m,Darren Aronofsky
+Top Gun: Maverick,2022,8.4/10,441K,Action,2h 10m,Joseph Kosinski
+Once Upon a Time in America,1984,8.3/10,353K,Crime,3h 49m,Sergio Leone
+Good Will Hunting,1997,8.3/10,965K,Drama,2h 6m,Gus Van Sant
+Princess Mononoke,1997,8.4/10,395K,Animation,2h 14m,Hayao Miyazaki
+The Boat,1981,8.4/10,252K,Drama,2h 29m,Wolfgang Petersen
+Avengers: Endgame,2019,8.4/10,1.1M,Action,3h 1m,Anthony Russo
+Toy Story,1995,8.3/10,992K,Animation,1h 21m,John Lasseter
+Braveheart,1995,8.4/10,1M,Biography,2h 58m,Mel Gibson
+Coco,2017,8.4/10,506K,Animation,1h 45m,Lee Unkrich
+Inglourious Basterds,2009,8.3/10,1.4M,Adventure,2h 33m,Quentin Tarantino
+Joker,2019,8.4/10,1.3M,Crime,2h 2m,Todd Phillips
+Amadeus,1984,8.4/10,402K,Biography,2h 40m,Milos Forman
+Oldboy,2003,8.4/10,579K,Action,2h,Park Chan-wook
+The Dark Knight Rises,2012,8.4/10,1.7M,Action,2h 44m,Christopher Nolan
+Avengers: Infinity War,2018,8.4/10,1.1M,Action,2h 29m,Anthony Russo
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4/10,491K,Comedy,1h 35m,Stanley Kubrick
+American Beauty,1999,8.4/10,1.2M,Drama,2h 2m,Sam Mendes
+Aliens,1986,8.4/10,717K,Action,2h 17m,James Cameron
+Spider-Man: Into the Spider-Verse,2018,8.4/10,526K,Animation,1h 57m,Bob Persichetti
+Witness for the Prosecution,1957,8.4/10,126K,Crime,1h 56m,Billy Wilder
+The Great Dictator,1940,8.4/10,225K,Comedy,2h 5m,Charles Chaplin
+The Shining,1980,8.4/10,1M,Drama,2h 26m,Stanley Kubrick
+Paths of Glory,1957,8.4/10,198K,Drama,1h 28m,Stanley Kubrick
+Indiana Jones and the Raiders of the Lost Ark,1981,8.4/10,964K,Action,1h 55m,Steven Spielberg
+WALL·E,2008,8.4/10,1.1M,Animation,1h 38m,Andrew Stanton
+Sunset Blvd.,1950,8.4/10,223K,Drama,1h 50m,Billy Wilder
+The Lives of Others,2006,8.4/10,390K,Drama,2h 17m,Florian Henckel von Donnersmarck
+Django Unchained,2012,8.4/10,1.5M,Drama,2h 45m,Quentin Tarantino
+Once Upon a Time in the West,1968,8.5/10,330K,Western,2h 45m,Sergio Leone
+Cinema Paradiso,1988,8.5/10,262K,Drama,2h 35m,Giuseppe Tornatore
+Apocalypse Now,1979,8.5/10,667K,Drama,2h 27m,Francis Ford Coppola
+Alien,1979,8.5/10,881K,Horror,1h 57m,Ridley Scott
+Modern Times,1936,8.5/10,243K,Comedy,1h 27m,Charles Chaplin
+City Lights,1931,8.5/10,185K,Comedy,1h 27m,Charles Chaplin
+Rear Window,1954,8.5/10,492K,Mystery,1h 52m,Alfred Hitchcock
+Memento,2000,8.4/10,1.2M,Mystery,1h 53m,Christopher Nolan
+Harakiri,1962,8.6/10,58K,Action,2h 13m,Masaki Kobayashi
+The Intouchables,2011,8.5/10,856K,Biography,1h 52m,Olivier Nakache
+Grave of the Fireflies,1988,8.5/10,277K,Animation,1h 29m,Isao Takahata
+Casablanca,1942,8.5/10,572K,Drama,1h 42m,Michael Curtiz
+Whiplash,2014,8.5/10,856K,Drama,1h 46m,Damien Chazelle
+The Usual Suspects,1995,8.5/10,1.1M,Crime,1h 46m,Bryan Singer
+The Prestige,2006,8.5/10,1.3M,Drama,2h 10m,Christopher Nolan
+The Departed,2006,8.5/10,1.3M,Crime,2h 31m,Martin Scorsese
+Léon: The Professional,1994,8.5/10,1.2M,Action,1h 50m,Luc Besson
+American History X,1998,8.5/10,1.1M,Crime,1h 59m,Tony Kaye
+The Pianist,2002,8.5/10,830K,Biography,2h 30m,Roman Polanski
+Parasite,2019,8.5/10,796K,Drama,2h 12m,Bong Joon Ho
+Spirited Away,2001,8.6/10,761K,Animation,2h 5m,Hayao Miyazaki
+Gladiator,2000,8.5/10,1.5M,Action,2h 35m,Ridley Scott
+Psycho,1960,8.5/10,671K,Horror,1h 49m,Alfred Hitchcock
+The Lion King,1994,8.5/10,1.1M,Animation,1h 28m,Roger Allers
+Saving Private Ryan,1998,8.6/10,1.4M,Drama,2h 49m,Steven Spielberg
+Life Is Beautiful,1997,8.6/10,694K,Comedy,1h 56m,Roberto Benigni
+Back to the Future,1985,8.5/10,1.2M,Adventure,1h 56m,Robert Zemeckis
+Terminator 2: Judgment Day,1991,8.6/10,1.1M,Action,2h 17m,James Cameron
+The Green Mile,1999,8.6/10,1.3M,Crime,3h 9m,Frank Darabont
+Star Wars: Episode IV - A New Hope,1977,8.6/10,1.4M,Action,2h 1m,George Lucas
+Interstellar,2014,8.6/10,1.8M,Adventure,2h 49m,Christopher Nolan
+City of God,2002,8.6/10,756K,Crime,2h 10m,Fernando Meirelles
+Seven Samurai,1954,8.6/10,346K,Action,3h 27m,Akira Kurosawa
+Goodfellas,1990,8.7/10,1.2M,Biography,2h 25m,Martin Scorsese
+Se7en,1995,8.6/10,1.6M,Crime,2h 7m,David Fincher
+It's a Wonderful Life,1946,8.6/10,456K,Drama,2h 10m,Frank Capra
+The Silence of the Lambs,1991,8.6/10,1.4M,Crime,1h 58m,Jonathan Demme
+One Flew Over the Cuckoo's Nest,1975,8.7/10,1M,Drama,2h 13m,Milos Forman
